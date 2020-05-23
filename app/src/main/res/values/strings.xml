@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AutoMap</string>
+    <string name="usermail">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="cpass">Confirm Password</string>
+    <string name="registerbutton">Register</string>
+    <string name="loginbutton">Login</string>
+    <string name="memberlogin">Do you have an account?</string>
+    <string name="accept">Accept registeration</string>
+    <string name="logout">Log Out</string>
+    <string name="title_activity_after_logged">AfterLoggedActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_favories">Favories</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_explore">Map</string>
+
+
+</resources>
